@@ -5,13 +5,13 @@ import "firebase/storage";
 import "firebase/database";
 import { toast } from "./toast";
 const config = {
-    apiKey: "AIzaSyA9FIpnrHtT823kGjh4IANXBQvGQATADp8",
-    authDomain: "ioniclase.firebaseapp.com",
-    projectId: "ioniclase",
-    storageBucket: "ioniclase.appspot.com",
-    messagingSenderId: "50991347233",
-    appId: "1:50991347233:web:73c1b2ba75db5a857a9560",
-    measurementId: "G-MNYE1W36LS"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "3",
+    appId: "",
+    measurementId: ""
 }
 firebase.initializeApp(config)
 
